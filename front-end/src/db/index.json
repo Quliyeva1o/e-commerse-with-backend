@@ -1,0 +1,338 @@
+{
+  "users": [
+    {
+      "id": "Aex4LKZkjfh4M--L8xskp",
+      "username": "superadmin",
+      "password": "Superadmin123",
+      "createdAt": "2024-05-10T04:13:12.127Z",
+      "email": "superadmin@gmail.com",
+      "profileImg": "https://t3.ftcdn.net/jpg/05/76/48/02/360_F_576480295_8ftsF50HCyNQ5YQzLQuC2TLleP9AwIwU.jpg",
+      "balance": "2000",
+      "role": "superadmin",
+      "basketItems": [],
+      "name": "superadminn"
+    },
+    {
+      "id": "Aex4LKZkjfk4M--L8xskp",
+      "username": "elnurxo",
+      "password": "Elnur123",
+      "createdAt": "2024-05-10T04:23:12.127Z",
+      "email": "elnurxo@gmail.com",
+      "profileImg": "https://static.scientificamerican.com/sciam/cache/file/2AE14CDD-1265-470C-9B15F49024186C10_source.jpg?w=1200",
+      "balance": "1000",
+      "role": "admin",
+      "basketItems": []
+    },
+    {
+      "0": {
+        "productId": "-R1TZaOx2grQYZASCRJYJ",
+        "count": 2,
+        "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty1017/product/media/images/prod/SPM/PIM/20231019/21/3ecca687-54a3-337c-b740-64b94f352592/1_org.jpg",
+        "name": "baggy jeans",
+        "salePrice": "70"
+      },
+      "1": {
+        "productId": "Be8HiQjwHOm7pCSv-dhKA",
+        "count": 2,
+        "imgSrc": "https://static.ticimax.cloud/13651/uploads/urunresimleri/buyuk/mavi-desenli-tek-omuz-aski-detay-cropc-93f3bc.jpg",
+        "name": "blue t-shirt",
+        "salePrice": "20"
+      },
+      "2": {
+        "productId": "vNB4VKSJq6aggj79lds_n",
+        "count": 1,
+        "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty853/product/media/images/20230429/22/334858582/922419295/1/1_org.jpg",
+        "name": "galaxy t-shirt",
+        "salePrice": "25"
+      },
+      "3": {
+        "productId": "vNB4VKSJq6aggj79lds_n",
+        "count": 1,
+        "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty853/product/media/images/20230429/22/334858582/922419295/1/1_org.jpg",
+        "name": "galaxy t-shirt",
+        "salePrice": "25"
+      },
+      "id": "Aex4bLKZkjf4M--L8xskp",
+      "username": "Reiyna1o",
+      "password": "Rena123",
+      "createdAt": "2024-05-10T04:12:12.127Z",
+      "email": "quliyeva@gmail.com",
+      "profileImg": "https://i.pinimg.com/736x/7d/e4/3b/7de43ba125d003e1aceb81be47f1d86b.jpg",
+      "balance": "500",
+      "role": "client",
+      "basketItems": []
+    },
+    {
+      "id": "JqRUGRp8gh3B2fVZqhRfE",
+      "username": "gulsezalova",
+      "password": "Gulshen123",
+      "createdAt": "2024-05-10T04:24:15.349Z",
+      "email": "gulsen@gmail.com",
+      "profileImg": "https://img.freepik.com/premium-photo/cute-sweet-baby-pink-cat-with-sweet-smile-small-peach-blossom-around-smiling_445384-115.jpg",
+      "balance": "1000",
+      "role": "admin",
+      "basketItems": [
+        {
+          "productId": "6w3u3P0ZV_ptRllYnyoCt"
+        }
+      ]
+    },
+    {
+      "id": "rFZLWL-S8OflN3y2FUudy",
+      "username": "safush1o",
+      "password": "Safush123",
+      "createdAt": "2024-05-11T16:18:49.174Z",
+      "email": "sahus@gmail.com",
+      "profileImg": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
+      "balance": "1",
+      "role": "client",
+      "basketItems": []
+    },
+    {
+      "id": "eSGk8VUhV-aXCGT64XCQP",
+      "username": "khamzelikiz",
+      "password": "Khamzeli123",
+      "createdAt": "2024-05-11T16:24:04.433Z",
+      "email": "kamzeli@gmail.com",
+      "profileImg": "https://i.ytimg.com/vi/wbQSHBF_HSc/maxresdefault.jpg",
+      "balance": "2",
+      "role": "client",
+      "basketItems": []
+    }
+  ],
+  "products": [
+    {
+      "id": "Be8HiQjwHOm7pCSv-dhKA",
+      "name": "blue t-shirt",
+      "salePrice": "20",
+      "costPrice": "30",
+      "createdAt": "2024-05-11T16:02:26.804Z",
+      "imgSrc": "https://static.ticimax.cloud/13651/uploads/urunresimleri/buyuk/mavi-desenli-tek-omuz-aski-detay-cropc-93f3bc.jpg",
+      "discountPercentage": "5",
+      "description": "This product will be sent by DENIKK . More than 100 stocks were offered to be sold at the campaign price. The seller determines the sales price of the product you have examined. A product can be sold by more than one seller. The sellers of the products offered for sale by more than one seller are listed according to the price they set for the product, seller scores, delivery status, promotions on the products, whether the shipping is free or not, whether the products can be delivered with fast delivery, and the stock and category information of the products. A maximum of 10 units of this product can be ordered. Trendyol reserves the right to cancel orders over 10 items. This specified limit is not valid for corporate orders, and different limits can be determined for corporate orders. Free returns within 15 days. Click for detailed information . Reverse Stitch Black Cargo Pants Model Measurements: Height: 1.63, Weight: 47 Size XS on the model.",
+      "categoryId": "dcxWCXqjjL9TkWJsteNFv",
+      "stockCount": "140"
+    },
+    {
+      "id": "30T9XhNOoU_v2TD2GZaKk",
+      "name": "Kargo jeans",
+      "salePrice": "55",
+      "costPrice": "70",
+      "createdAt": "2024-05-11T16:05:34.084Z",
+      "imgSrc": "https://cdn.dsmcdn.com/ty570/product/media/images/20221019/15/197364352/600745020/2/2_org_zoom.jpg",
+      "discountPercentage": "8",
+      "description": "This product will be sent by DENIKK . More than 100 stocks were offered to be sold at the campaign price. The seller determines the sales price of the product you have examined. A product can be sold by more than one seller. The sellers of the products offered for sale by more than one seller are listed according to the price they set for the product, seller scores, delivery status, promotions on the products, whether the shipping is free or not, whether the products can be delivered with fast delivery, and the stock and category information of the products. A maximum of 10 units of this product can be ordered. Trendyol reserves the right to cancel orders over 10 items. This specified limit is not valid for corporate orders, and different limits can be determined for corporate orders. Free returns within 15 days. Click for detailed information . Reverse Stitch Black Cargo Pants Model Measurements: Height: 1.63, Weight: 47 Size XS on the model.",
+      "categoryId": "dcxWCXqjjL9TkWJsteNFv",
+      "stockCount": "2"
+    },
+    {
+      "id": "-R1TZaOx2grQYZASCRJYJ",
+      "name": "baggy jeans",
+      "salePrice": "70",
+      "costPrice": "90",
+      "createdAt": "2024-05-11T16:10:08.280Z",
+      "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty1017/product/media/images/prod/SPM/PIM/20231019/21/3ecca687-54a3-337c-b740-64b94f352592/1_org.jpg",
+      "discountPercentage": "10",
+      "description": "This item will be sent by Maisie . There are less than 5 items in stock to be sold at the campaign price. The seller determines the sales price of the product you have examined. A product can be sold by more than one seller. The sellers of the products offered for sale by more than one seller are listed according to the price they set for the product, seller scores, delivery status, promotions on the products, whether the shipping is free or not, whether the products can be delivered with fast delivery, and the stock and category information of the products. A maximum of 10 units of this product can be ordered. Trendyol reserves the right to cancel orders over 10 items. This specified limit is not valid for corporate orders, and different limits can be determined for corporate orders. Free returns within 15 days. Click for detailed information . Black Washed Baggy Jean Fabric Type: Denim Color: Antique Model: Height: 1.65 Weight: 50 Size Above: 28 26 - 103 cm 27 - 104 cm 28 - 105 cm 29 - 107 cm 30 - 109 cm 31 - 110 cm ( may differ by 1-2 cm) Max. It is recommended to wash at 30 degrees.",
+      "categoryId": "dcxWCXqjjL9TkWJsteNFv",
+      "stockCount": "500"
+    },
+    {
+      "id": "vNB4VKSJq6aggj79lds_n",
+      "name": "galaxy t-shirt",
+      "salePrice": "25",
+      "costPrice": "30",
+      "createdAt": "2024-05-11T16:13:00.131Z",
+      "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty853/product/media/images/20230429/22/334858582/922419295/1/1_org.jpg",
+      "discountPercentage": "5",
+      "description": "This product will be sent by LILAO . More than 100 stocks were offered to be sold at the campaign price. The seller determines the sales price of the product you have examined. A product can be sold by more than one seller. The sellers of the products offered for sale by more than one seller are listed according to the price they set for the product, seller scores, delivery status, promotions on the products, whether the shipping is free or not, whether the products can be delivered with fast delivery, and the stock and category information of the products. A maximum of 10 units of this product can be ordered. Trendyol reserves the right to cancel orders over 10 items. This specified limit is not valid for corporate orders, and different limits can be determined for corporate orders. Free returns within 15 days. Click for detailed information . Our T-Shirt Models are produced from 24/1 combed cotton fabric. It is absolutely of high quality, it will never fade, shrink or break, you can use it with peace of mind for many years. None of our products are see-through, especially non-see-through fabric is used. If you do not prefer it to be too loose, it is recommended to take your own size. If you wish, you can also ask us questions about size. Fabric: 100% Cotton Color may differ by 1-2 tones due to the light used during product shooting",
+      "categoryId": "mZt6luAL4JOXv5_akm0gr",
+      "stockCount": "180"
+    },
+    {
+      "id": "h9WCO7NIm2ivs4Zt6MXrk",
+      "name": "t-shirt",
+      "salePrice": "50",
+      "costPrice": "60",
+      "createdAt": "2024-05-11T16:13:47.228Z",
+      "imgSrc": "https://cdn.dsmcdn.com/ty329/product/media/images/20220211/21/48765801/385364373/1/1_org_zoom.jpg",
+      "discountPercentage": "2",
+      "description": "This product will be sent by ALİKAA . More than 100 stocks were offered to be sold at the campaign price. The seller determines the sales price of the product you have examined. A product can be sold by more than one seller. The sellers of the products offered for sale by more than one seller are listed according to the price they set for the product, seller scores",
+      "categoryId": "dcxWCXqjjL9TkWJsteNFv",
+      "stockCount": "120"
+    }
+  ],
+  "messages": [
+    {
+      "id": "NpchKxQYWuV9IcejY9d71",
+      "fullName": "Rena",
+      "email": "rena@gmail.com",
+      "title": "hat",
+      "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet recusandae culpa nobis adipisci assumenda quidem architecto harum? Ad ea illo ut cupiditate doloribus cumque quo iusto unde necessitatibus aperiam aut numquam, quos recusandae officia voluptatem. Minus excepturi atque deserunt velit.",
+      "createdAt": "2024-05-12T12:37:02.481Z",
+      "isRead": true
+    },
+    {
+      "id": "XDqyWAnutLztHeZSnI2mj",
+      "fullName": "Leman Mustafazade",
+      "email": "laman@gmail.com",
+      "title": "skirt",
+      "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet recusandae culpa nobis adipisci assumenda quidem architecto harum? Ad ea illo ut cupiditate doloribus cumque quo iusto unde necessitatibus aperiam aut numquam, quos recusandae officia voluptatem. Minus excepturi atque deserunt velit.",
+      "createdAt": "2024-05-12T12:38:04.800Z",
+      "isRead": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "4b6b",
+      "userId": "Aex4bLKZkjf4M--L8xskp",
+      "totalPrice": "500",
+      "createdAt": "2024-05-12T17:53:34.568Z",
+      "items": [
+        [
+          {
+            "productId": "Be8HiQjwHOm7pCSv-dhKA",
+            "count": 2,
+            "imgSrc": "https://static.ticimax.cloud/13651/uploads/urunresimleri/buyuk/mavi-desenli-tek-omuz-aski-detay-cropc-93f3bc.jpg",
+            "name": "blue t-shirt",
+            "salePrice": "20"
+          },
+          {
+            "productId": "30T9XhNOoU_v2TD2GZaKk",
+            "count": 1,
+            "imgSrc": "https://cdn.dsmcdn.com/ty570/product/media/images/20221019/15/197364352/600745020/2/2_org_zoom.jpg",
+            "name": "Kargo jeans",
+            "salePrice": "55"
+          },
+          {
+            "productId": "-R1TZaOx2grQYZASCRJYJ",
+            "count": 3,
+            "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty1017/product/media/images/prod/SPM/PIM/20231019/21/3ecca687-54a3-337c-b740-64b94f352592/1_org.jpg",
+            "name": "baggy jeans",
+            "salePrice": "70"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "aa1a",
+      "userId": "Aex4bLKZkjf4M--L8xskp",
+      "totalPrice": "500",
+      "createdAt": "2024-05-12T17:53:54.901Z",
+      "items": [
+        [
+          {
+            "productId": "Be8HiQjwHOm7pCSv-dhKA",
+            "count": 2,
+            "imgSrc": "https://static.ticimax.cloud/13651/uploads/urunresimleri/buyuk/mavi-desenli-tek-omuz-aski-detay-cropc-93f3bc.jpg",
+            "name": "blue t-shirt",
+            "salePrice": "20"
+          },
+          {
+            "productId": "30T9XhNOoU_v2TD2GZaKk",
+            "count": 1,
+            "imgSrc": "https://cdn.dsmcdn.com/ty570/product/media/images/20221019/15/197364352/600745020/2/2_org_zoom.jpg",
+            "name": "Kargo jeans",
+            "salePrice": "55"
+          },
+          {
+            "productId": "-R1TZaOx2grQYZASCRJYJ",
+            "count": 3,
+            "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty1017/product/media/images/prod/SPM/PIM/20231019/21/3ecca687-54a3-337c-b740-64b94f352592/1_org.jpg",
+            "name": "baggy jeans",
+            "salePrice": "70"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "2e7c",
+      "userId": "Aex4bLKZkjf4M--L8xskp",
+      "totalPrice": "500",
+      "createdAt": "2024-05-12T18:05:57.343Z",
+      "items": [
+        [
+          {
+            "productId": "Be8HiQjwHOm7pCSv-dhKA",
+            "count": 2,
+            "imgSrc": "https://static.ticimax.cloud/13651/uploads/urunresimleri/buyuk/mavi-desenli-tek-omuz-aski-detay-cropc-93f3bc.jpg",
+            "name": "blue t-shirt",
+            "salePrice": "20"
+          },
+          {
+            "productId": "30T9XhNOoU_v2TD2GZaKk",
+            "count": 1,
+            "imgSrc": "https://cdn.dsmcdn.com/ty570/product/media/images/20221019/15/197364352/600745020/2/2_org_zoom.jpg",
+            "name": "Kargo jeans",
+            "salePrice": "55"
+          },
+          {
+            "productId": "-R1TZaOx2grQYZASCRJYJ",
+            "count": 3,
+            "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty1017/product/media/images/prod/SPM/PIM/20231019/21/3ecca687-54a3-337c-b740-64b94f352592/1_org.jpg",
+            "name": "baggy jeans",
+            "salePrice": "70"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "4d66",
+      "userId": "Aex4bLKZkjf4M--L8xskp",
+      "totalPrice": "500",
+      "createdAt": "2024-05-12T18:06:44.485Z",
+      "items": [
+        []
+      ]
+    },
+    {
+      "id": "221c",
+      "userId": "Aex4bLKZkjf4M--L8xskp",
+      "totalPrice": "500",
+      "createdAt": "2024-05-15T03:56:38.233Z",
+      "items": [
+        [
+          {
+            "productId": "-R1TZaOx2grQYZASCRJYJ",
+            "count": 1,
+            "imgSrc": "https://cdn.dsmcdn.com/mnresize/500/-/ty1017/product/media/images/prod/SPM/PIM/20231019/21/3ecca687-54a3-337c-b740-64b94f352592/1_org.jpg",
+            "name": "baggy jeans",
+            "salePrice": "70"
+          },
+          {
+            "productId": "30T9XhNOoU_v2TD2GZaKk",
+            "count": 1,
+            "imgSrc": "https://cdn.dsmcdn.com/ty570/product/media/images/20221019/15/197364352/600745020/2/2_org_zoom.jpg",
+            "name": "Kargo jeans",
+            "salePrice": "55"
+          },
+          {
+            "productId": "Be8HiQjwHOm7pCSv-dhKA",
+            "count": 1,
+            "imgSrc": "https://static.ticimax.cloud/13651/uploads/urunresimleri/buyuk/mavi-desenli-tek-omuz-aski-detay-cropc-93f3bc.jpg",
+            "name": "blue t-shirt",
+            "salePrice": "20"
+          }
+        ]
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "mZt6luAL4JOXv5_akm0gr",
+      "name": "men"
+    },
+    {
+      "id": "dcxWCXqjjL9TkWJsteNFv",
+      "name": "women"
+    },
+    {
+      "id": "jNuj3B6dxmVCvD7krubHL",
+      "name": "children"
+    },
+    {
+      "id": "yKaWIUiVDM0TpYCNbPhFo",
+      "name": "outlet"
+    }
+  ]
+}
