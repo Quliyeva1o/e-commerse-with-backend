@@ -78,7 +78,7 @@ const AddProduct = () => {
               >
                 {categories.map((mycategory) => {
                   return (
-                    <MenuItem key={mycategory.id} value={mycategory.id}>{mycategory.name}</MenuItem>
+                    <MenuItem key={mycategory._id} value={mycategory._id}>{mycategory.name}</MenuItem>
                   )
                 })}
 

@@ -19,11 +19,11 @@ const ClientProducts = () => {
 
 
 
-
   const navigate = useNavigate()
   useEffect(() => {
     localUser && getOne(enpoints.users, localUser.id).then((res) => {
       setLoggedinUser(res.data)
+      
     })
   }, [localUser])
 

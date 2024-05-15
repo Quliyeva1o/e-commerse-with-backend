@@ -21,16 +21,20 @@ function App() {
 
   useEffect(() => {
     getAll(enpoints.users).then((res) => {
-      setUsers(res.data)
+      setUsers(res.data.data)
+      console.log(res);
+    }).catch((err)=>{
+      console.log(err);
     })
     getAll(enpoints.products).then((res) => {
-      setProducts(res.data)
+      setProducts(res.data.data)
+      console.log(res);
     })
     getAll(enpoints.categories).then((res) => {
-      setCategories(res.data)
+      setCategories(res.data.data)
     })
     getAll(enpoints.messages).then((res) => {
-      setMessages(res.data)
+      setMessages(res.data.data)
     })
     const loggedInUser = localStorage.getItem("loggedinUser");
     if (loggedInUser) {
